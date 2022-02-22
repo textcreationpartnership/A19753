@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true report of the gener[all] imbarrement of all the English shippes, vnder the domin[ion] of the kinge of Spaine and of the daungerous aduenture, a[nd] wonderfull deliuerance of a ship of Londo[n] called the Viol[et,] being of the burthen of 130. tunne: by the especiall prouid[ence] of God, from the violence of Spanyardes, at a port called [S.] Sebastian in Biskay: which aduenture was enterprised 25. of May 1585. and was finished the 29. of the same moneth, without hurt either to men, or ship.</title>
+            <author>R. D., fl. 1585.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1585</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19753</idno>
+            <idno type="STC">STC 6180</idno>
+            <idno type="STC">ESTC S109196</idno>
+            <idno type="EEBO-CITATION">99844845</idno>
+            <idno type="PROQUEST">99844845</idno>
+            <idno type="VID">9691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 493:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true report of the gener[all] imbarrement of all the English shippes, vnder the domin[ion] of the kinge of Spaine and of the daungerous aduenture, a[nd] wonderfull deliuerance of a ship of Londo[n] called the Viol[et,] being of the burthen of 130. tunne: by the especiall prouid[ence] of God, from the violence of Spanyardes, at a port called [S.] Sebastian in Biskay: which aduenture was enterprised 25. of May 1585. and was finished the 29. of the same moneth, without hurt either to men, or ship.</title>
+                  <author>R. D., fl. 1585.</author>
+               </titleStmt>
+               <extent>[9], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Iohn Wolfe for Thomas Butter, and are to [be] sold at his shop neere S. Austins gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1585.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: R.D.</note>
+                  <note>Partly in verse.</note>
+                  <note>Even page numbers are on rectos.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Violet (Ship) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:9691:1"/>
+            <pb facs="tcp:9691:1"/>
+            <p>
+               <hi>A true Report of the gener<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </hi> Imbarrement of all the Engliſh Shippes, vnder the domin<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the kinge of Spaine: and of the daungerous aduenture, a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wonderfull deliuerance, of a Ship of Londo<g ref="char:cmbAbbrStroke">̄</g> called the <hi>Viol<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> being of the burthen of 130. Tunne: by the eſpeciall prouid<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of God, from the violence of Spanyardes, at a Port called <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Sebaſtian in Biskay:</hi> which aduenture was enterpriſed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 25. of May 1585. and was finiſhed the 29. of the ſame moneth, without hurt either to men, or Ship.</p>
+            <figure>
+               <figDesc>warship</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON</hi> Imprinted by <hi>Iohn Wolfe</hi> for <hi>Thomas Butter,</hi> and are to ſold at his ſhop neere <hi>S. Auſtins gate, 1585.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:9691:2"/>
+            <pb facs="tcp:9691:2"/>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Haue offered here vnto thy ſighte (Gentle Reader) ſome kind of taſte, ſuch as it is, of the generall Imbar<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t of al our En<g ref="char:EOLhyphen"/>gliſh Ships nowe wrongfully with<g ref="char:EOLhyphen"/>helde, <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>lt the Portes of Spaine, from our countreymen, by their Kinges Com<g ref="char:EOLhyphen"/>miſsion. For me, being a poore Engliſhe ſubiect, <hi>omnium poſtremiſsimus,</hi> to de<g ref="char:EOLhyphen"/>fine, or ſearch the cauſe it appertayneth not: onely of this am I ſure, that no ſuch trouble, or aduerſe perturbation happe<g ref="char:EOLhyphen"/>neth at any time vnto gods people, which his prouident wiſedome doth not deter<g ref="char:EOLhyphen"/>mine, both foreſéeinge the beginninge, the cauſe, the meanes, and continuance, and limiting the end or eſcape out of the ſame. Wherein neyther chaunce, nor fortune, nor luck, nor diſpoſition of man hath ma<g ref="char:EOLhyphen"/>ſtery, but onely the gouernemente of the Lordes prouidence. It is but folly there<g ref="char:EOLhyphen"/>fore to bee mooued with the vnrighteous courſe of this wicked worlde: for wée ſée that euen from the beginning the wicked broode of the Serpe<g ref="char:cmbAbbrStroke">̄</g>t haue allwaies whet<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:9691:3"/>their téeth againſt the womans ſéede: and that the children of darkeneſſe ſome<g ref="char:EOLhyphen"/>times vexe, ſometimes perſecute, ſome<g ref="char:EOLhyphen"/>times preuail againſt the children of light. Howſoeuer the cauſe hereof procéedeth, whether for the puniſhment of our ſinnes here in this life, or for our vigilant watch, or for our triall of faith, or for diſcouery of wicked and hollow hartes, or in fine for confuſion of the aduerſary: this is certaine it is the Lords doing, as the trouble, ſo the deliuerance, and it is marueilous in our eyes. The Prophet Dauid founde the ex<g ref="char:EOLhyphen"/>perience hereof in the deſerte of Maon: whome Saul and Doeg, and whole ar<g ref="char:EOLhyphen"/>mies compaſſed in on euery ſide, they hem<g ref="char:EOLunhyphen"/>med him in, and came about him like ſtin<g ref="char:EOLhyphen"/>ging hornets: but yet vnlooked for, when hée thought himſelfe loſt, yea when the gates of death had taken holde vpon him, the Lorde of his eſpeciall grace deliuered him, and ſet his féete in a large roome. For God had ſworne by his holineſſe he would not faile Dauid. And how can it be, but that the ſame our God hauing likewiſe in the ſame promiſe through Chriſt reconci<g ref="char:EOLhyphen"/>led vs his ſeruantes vnto him, and bound himſelfe vnto vs, yea euen the force, and power likewiſe of all his creatures, for
+<pb facs="tcp:9691:3"/>hee hath all power in his owne hand, how can it be, but that he doth and will protect eſpecially, yea and wonderfully his ſer<g ref="char:EOLhyphen"/>uauntes, that truely feare, and beleue in his holy, bleſſed, and almighty name.</p>
+            <p>This ſpirituall goodneſſe, and liuely fee<g ref="char:EOLhyphen"/>ling of faith, becauſe it wanteth in the chil<g ref="char:EOLhyphen"/>dren of this worlde, where God wonder<g ref="char:EOLhyphen"/>fully buildeth, they wilfully pluck down, and in reaching a naturall compaſſe, they ouer reach themſelues, truſting and who ly depending vpon their worldly pollicy, and deuiſe. Hereby they haue confidence in the ſtrength of their owne hand, but di<g ref="char:EOLhyphen"/>ſtruſte in déede that our God is ſufficiente almighty, and ſo by hooke, or by crooke, and extraordinary meanes perform their vnrighteous will, but vſe violence &amp; force againſt their Chriſtian Faith. But what<g ref="char:EOLhyphen"/>ſoeuer is rightly good, that, is of God, and what God will haue performed in perfor<g ref="char:EOLhyphen"/>mance thereof he woorketh alwayes like vnto himſelfe, for he is good: and therfore whatſoeuuer is of him and his gouernment it is finiſhed by good meanes, and hath his ſucceſſe profitable, and good: as for the contrary, though it ſéeme good and profita<g ref="char:EOLhyphen"/>ble for the time, according as they would haue it, yet in finall account, it prooueth
+<pb facs="tcp:9691:4"/>méere loſſe, and vtter confuſion, as they iuſtly deſerue it.</p>
+            <p>In theſe actions lieth the triall of faith, and in ſuch extremities, or baites of temp<g ref="char:EOLhyphen"/>tation is diſcerned the note, and difference of good ſpirites, and bad minded men. The one ſéeketh helpe, and thruſteth, or ſhoo<g ref="char:EOLhyphen"/>ueth his wil and purpoſe forward to ſome, though ſimple proofe, and that with iniu<g ref="char:EOLhyphen"/>ries, wickednes, and ſhipwracke of con<g ref="char:EOLhyphen"/>ſcience: the other waiteth the Lordes ley<g ref="char:EOLhyphen"/>ſure, with long, faithfull, and patient loo<g ref="char:EOLhyphen"/>king till he come. As the Henne ouer her Chickens, ſo doth the Lord ouer theſe hys ſeruants ſpread his winges, and eſpeciall prouidence: for he couereth them as with a cloud in the heat of the day, and guideth them as a piller of light in darkeneſſe, hée is vnto them a ſpringing well in time of drought, and a ſafe, or eaſie path and way in extreame daunger, yea through armies of men, and maine floudes of the red Sea.</p>
+            <p>The exploit lately attempted, and per<g ref="char:EOLhyphen"/>formed by ſome of our countreymen Mar<g ref="char:EOLhyphen"/>chantes, and Mariners, and chiefly en<g ref="char:EOLhyphen"/>couraged therevnto by Rouland Randall maſter Gunner of the ſame Shippe, who lately, and moſt happely eſcaped the vio<g ref="char:EOLhyphen"/>lence and bondage of the Spanyards doth
+<pb facs="tcp:9691:4"/>ſufficiently declare the ſame. For where<g ref="char:EOLhyphen"/>as certaine Engliſh Shippes, the nomber as yet vncertaine, are at this preſent ge<g ref="char:EOLhyphen"/>nerally through al the dominio<g ref="char:cmbAbbrStroke">̄</g> of Spaine imbarred, and arreſted by King Philips Commiſsion to his vſe and ſeruice, when and where, and againſt whom it ſhal beſt pleaſe him, and are to that end watchfully and ſtro<g ref="char:cmbAbbrStroke">̄</g>gly garded that none ſhould ſcape, our men ſpoyled of their force, and power: it pleaſed notwithſtanding the Lord our God moſt wo<g ref="char:cmbAbbrStroke">̄</g>derfully, when all hope was paſt, to deliuer a Ship of London called the <hi>Violet</hi> from the rage, and tyranny of their oppreſſors: the truth wherof is thus as followeth.</p>
+            <p>The <hi>25.</hi> of May laſt paſt this preſent yeare of our Lord <hi>1585.</hi> y<hi rend="sup">e</hi> aforeſaid Ship called the <hi>Violet,</hi> with eight other Ships were at road in the Harbor or Quince of <hi>S. Sebaſtian.</hi> The Shipp was in burthen of <hi>130.</hi> Tunne: which but a little before hauing vnbarcked her Marchandiſe, was now bound to England againe, and had to that end receiued in threſcore Tunne. The Engliſh men in the Ship being thus occupied about their fraight, and the ma<g ref="char:EOLhyphen"/>ſter Gonner <hi>Rouland Randall</hi> being on land, there came vnto them the <hi>Chorage</hi>
+               <pb facs="tcp:9691:5"/>of <hi>Dore,</hi> the Captaine of y<hi rend="sup">e</hi> Towne, ſo cal<g ref="char:EOLhyphen"/>led, with the kinges Commiſsion to ſtay the Ship, &amp; take the ſailes a ſhore: which they ſuppoſing to haue ſufficiently perfor<g ref="char:EOLhyphen"/>med, they departed.</p>
+            <p>The next day they came aboord againe, and called for a note of the furniture and ſhot. The maſter Gunner eſpying ſuch a nomber in the Ship, plied him thither, and after many ſpeeches he gaue a note therof, but not in ſuch ſorte, and ſo fully as they were furniſhed indéede. Certaine Engliſh Marchants came a boord the ſame time to make merry, but this newes was to them a bitter ſauſe for their good chéere. The note of the ſhot that then was giuen was <hi>8.</hi> Kalicuers, &amp; <hi>8.</hi> caſt pieces, which they would haue had away, but that M. Yong became bound for the ſtay of the ſame and the Ship. The ſame day we heard that the <hi>Primeroſe</hi> M. Bondes Ship had eſcaped. Which eſcape ſo encouraged vs, conſide<g ref="char:EOLhyphen"/>ring the great ſuit we had made to get our diſcharge and could obtaine no fauor, that euery man in the Ship bound himſelfe to other to ſtand to al extremities, and when time and winde ſerued, either to looſe our liues, or finde a paſſage: Emboldned the rather by the forwardnes of <hi>Randall</hi> the
+<pb facs="tcp:9691:5"/>maſter Gunner, who left nothing vnaſ<g ref="char:EOLhyphen"/>ſayed, or vnready for his part.</p>
+            <p>The Spanyardes albeit they had ſur<g ref="char:EOLhyphen"/>priſed all our ſailes, as they thought, with ſufficie<g ref="char:cmbAbbrStroke">̄</g>t bonds, yet for more ſecurity they enuirened vs with force by ſea &amp; by land: <hi>6000.</hi> men within and without the wals were attenda<g ref="char:cmbAbbrStroke">̄</g>t on this ſeruice: thre nights before our aduenture, beſides them that gaue aſſault, as you ſhall vnderſtande in the verſes followinge. But yet it pleaſed God to geue vs a gale of wind for paſſage, and ſo we aduentured our liberty through the midſt of our enemies, who made a wo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>derfull ſhootinge and crying, <hi>O Anglois, Anglois.</hi>
+            </p>
+            <p>After which our eſcape, a Pinnaſe fol<g ref="char:EOLhyphen"/>lowed vs with a Flag of Truce, wherein the Captaine had ſent an Engliſh Mar<g ref="char:EOLhyphen"/>chant w<hi rend="sup">t</hi> letters for our returne: bindinge the ſame marcha<g ref="char:cmbAbbrStroke">̄</g>t in <hi>18000.</hi> crownes not to eſcape. This marchant and other Spa<g ref="char:EOLhyphen"/>nyards coming aboord our Ship found, as they ſaid ſufficient power to withſtand all their force, and ſo were glad to depart with aunſweare as followeth in the verſes.</p>
+            <lg>
+               <pb n="1" facs="tcp:9691:6"/>
+               <l>THe day and yeare aforeſaid was,</l>
+               <l>at <hi>Saint Sebaſtian:</hi>
+               </l>
+               <l>The <hi>Violet</hi> of London ſtaid</l>
+               <l>both Ship and alſo man.</l>
+            </lg>
+            <lg>
+               <l>The Captaine of the High Caſtell,</l>
+               <l>with Souldiors of his traine.</l>
+               <l>In Ship with Kinges Commiſsion</l>
+               <l>tooke ſailes from yard amaine.</l>
+            </lg>
+            <lg>
+               <l>They thought they had caught all our ſailes</l>
+               <l>yet tooke but one away:</l>
+               <l>Our maine corſe and a drabiler,</l>
+               <l>the reſt aboorde did ſtay.</l>
+            </lg>
+            <lg>
+               <l>As Ship in Quince then moared was,</l>
+               <l>by three kables full faſt:</l>
+               <l>This newes to heare was ſtraunge to vs,</l>
+               <l>and made vs all agaſt.</l>
+            </lg>
+            <lg>
+               <l>Conuited was a boord on Ship</l>
+               <l>that preſent day at noone</l>
+               <l>Diuers, with marchants Engliſhmen</l>
+               <l>whoſe merryment ſoone was done.</l>
+            </lg>
+            <lg>
+               <l>The wind then being contrary</l>
+               <l>reſiſtance was in vaine:</l>
+               <l>And therfore armed with patience</l>
+               <l>our handes perforce refraine.</l>
+            </lg>
+            <lg>
+               <l>Yea more then ſo: bondes muſt be made</l>
+               <l>that all thinges be foorth comming:</l>
+               <l>Then George Yong marchant of the Towne,</l>
+               <l>was bound vnto the king</l>
+            </lg>
+            <lg>
+               <l>In body, goods, and all he had</l>
+               <l>incompaſt in a ſtraite:</l>
+               <l>If Ship did ſcape, that then he ſhould</l>
+               <l>remaine a Spaniſh baite.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:9691:6"/>
+               <l>The Ship continued ſtayd foure dayes,</l>
+               <l>without hope of releaſe:</l>
+               <l>No way was found for helpe, but care</l>
+               <l>did more, and more encreaſe.</l>
+            </lg>
+            <lg>
+               <l>For Spanyardes plyed with cruell force</l>
+               <l>to garde on euery ſide:</l>
+               <l>Inraught we were as birdes in cage</l>
+               <l>bereft of winde, and tide.</l>
+            </lg>
+            <lg>
+               <l>Their Ordinance great on Tower walles,</l>
+               <l>were bent againſt our Ship:</l>
+               <l>And Souldiors in a great Bisken</l>
+               <l>their ſmale ſhot well did keep.</l>
+            </lg>
+            <lg>
+               <l>A great Pinnaſe of twenty Tunnes</l>
+               <l>likewiſe a loofe there lay:</l>
+               <l>Y fraught with fifty Souldiors ſhot</l>
+               <l>our Engliſh Ship to ſtay.</l>
+            </lg>
+            <lg>
+               <l>What more, then fifty Soldiors were</l>
+               <l>placd on the Blockes hard by:</l>
+               <l>With Hatgabuſhes redy preſt</l>
+               <l>in watch there did they lye.</l>
+            </lg>
+            <lg>
+               <l>They planted fifty Souldiors more</l>
+               <l>vpon the Rockes by Weſt:</l>
+               <l>And on the Blockes that there do lie</l>
+               <l>our Ship for to infeſt.</l>
+            </lg>
+            <lg>
+               <l>On watch tower, and vpon the wall</l>
+               <l>were ſet a hundred more</l>
+               <l>Of Souldiors ſhot, with Hargabuſhes</l>
+               <l>our Engliſh Ship to gore.</l>
+            </lg>
+            <lg>
+               <l>And if perhaps we ſcape all this</l>
+               <l>yet is the Caſtell ſtronge:</l>
+               <l>With hoat and roaring Cannons force</l>
+               <l>to lay our Ship a long.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:9691:7"/>
+               <l>In fine, the Harbors outlet is</l>
+               <l>but narrow for the place:</l>
+               <l>With Rockes, and Weſterne raging ſeas</l>
+               <l>all hurtfull in ſuch caſe.</l>
+            </lg>
+            <lg>
+               <l>Thus haue you heard the daungers great</l>
+               <l>wherein our Ship did lie:</l>
+               <l>Right happy men you may vs thinke</l>
+               <l>that now our Ship ſhould flye.</l>
+            </lg>
+            <lg>
+               <l>For Ship in all vnreadineſſe is</l>
+               <l>this nine and twentieth of May:</l>
+               <l>Therefore vnlike for to eſcape</l>
+               <l>at breaking of the day.</l>
+            </lg>
+            <lg>
+               <l>And no preparing was to be</l>
+               <l>before the time preſent:</l>
+               <l>Therefore to haue it well applyed</l>
+               <l>was euery mans intent.</l>
+            </lg>
+            <lg>
+               <l>What than? when earthly hope was paſt</l>
+               <l>we called vpon the Lord:</l>
+               <l>And humbled downe our woefull hartes</l>
+               <l>in prayers with one accord.</l>
+            </lg>
+            <lg>
+               <l>That he would ſtill be vnto vs</l>
+               <l>our God and ſtretch his hand:</l>
+               <l>To rid vs from the power and thraſt</l>
+               <l>of this ſame curſed land.</l>
+            </lg>
+            <lg>
+               <l>It pleaſed the Lord of his good grace</l>
+               <l>to heare our woefull cry:</l>
+               <l>And in good tune a gale of wind</l>
+               <l>he ſent vs proſperouſly.</l>
+            </lg>
+            <lg>
+               <l>Now cheere my hartes, the Maſter ſaid</l>
+               <l>the winde doth ſerue our turne:</l>
+               <l>Be yare my mates and fellowes all,</l>
+               <l>or els we are vndone.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:9691:7"/>
+               <l>Bring ouer Kable to Kapſtene,</l>
+               <l>veer both, or other faſt:</l>
+               <l>Out end for end: geue Ship the way,</l>
+               <l>bring ſales to yard, be preſt.</l>
+            </lg>
+            <lg>
+               <l>Then did the ſlaues in Biskin cry,</l>
+               <l>
+                  <hi>Hola naue, adonda voye</hi>
+               </l>
+               <l>
+                  <hi>O Anglois, Anglois, Anglois,</hi>
+               </l>
+               <l>beginning to annoy.</l>
+            </lg>
+            <lg>
+               <l>Pit, pat Kalieuers thundred thicke</l>
+               <l>good fellowes cut our kable</l>
+               <l>In haſt, and hoyſe our foreſaile, ſhoot</l>
+               <l>as faſt as you are able.</l>
+            </lg>
+            <lg>
+               <l>When once we paſt the great Biskine</l>
+               <l>and ſomewhat ſet at large:</l>
+               <l>From out the Blocke, and watch tower came</l>
+               <l>a ſecond cry, and charge.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>O Anglois, Anglois, Latherunes</hi>
+               </l>
+               <l>
+                  <hi>o atarra arma:</hi>
+               </l>
+               <l>
+                  <hi>O Diabilo the Anglois</hi>
+               </l>
+               <l>
+                  <hi>arma, arma, arma.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Pinnaſe that on other ſide</l>
+               <l>did lye with ſouldiors there:</l>
+               <l>Was gone before our going out</l>
+               <l>and did not come vs neere.</l>
+            </lg>
+            <lg>
+               <l>Now was out foreſaile, and myſſine</l>
+               <l>with toretopſaile alſo</l>
+               <l>Set rucking with our boat a head</l>
+               <l>amaine our Ship did goe.</l>
+            </lg>
+            <lg>
+               <l>The great ſhot ſtraight from off Towne walles</l>
+               <l>did rage on euery ſide:</l>
+               <l>The Block ſhot, Rock ſhot, and Watchtower</l>
+               <l>their deadly force haue tried.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:9691:8"/>
+               <l>At laſt the thundring Cannon ſhot</l>
+               <l>did roare from Caſtell hie:</l>
+               <l>We ſhronke not from our tackeling though,</l>
+               <l>twas time for vs to plie.</l>
+            </lg>
+            <lg>
+               <l>Than hoyſt our maine topſaile aloft</l>
+               <l>being ſet with other three:</l>
+               <l>And ſo were like to runne on Rockes</l>
+               <l>tweene feare, and hope of glee.</l>
+            </lg>
+            <lg>
+               <l>But God out God, who from the ſhot</l>
+               <l>preſerued vs: From the Blockes</l>
+               <l>Did ſhield our <hi>London Violet</hi>
+               </l>
+               <l>likewiſe from daungerous Rockes.</l>
+            </lg>
+            <lg>
+               <l>Prayſed be God our Lord therefore</l>
+               <l>who is of mighties moſt</l>
+               <l>For that he hath defended vs</l>
+               <l>from Spaniſh bloudy coaſt.</l>
+            </lg>
+            <lg>
+               <l>At laſt aloofe we ſpied full faſt</l>
+               <l>a Pinnaſe to vs bent:</l>
+               <l>Which to our ſight a Flagge of truce</l>
+               <l>did willingly preſent.</l>
+            </lg>
+            <lg>
+               <l>Strike Topſaile quoth our Maſter then</l>
+               <l>to approach lets geue them leaue:</l>
+               <l>Perhaps of their or our ill ſpeede</l>
+               <l>ſome Newes we ſhall receiue.</l>
+            </lg>
+            <lg>
+               <l>Their meſſage ſtood vpon three pointes</l>
+               <l>of Flattery, Threates, and Pity:</l>
+               <l>A ſeemely ſong for Spaniſh lippes</l>
+               <l>to catch ſome fooles vnwitty.</l>
+            </lg>
+            <lg>
+               <l>The firſt that if we would returne</l>
+               <l>a pardon we ſhould haue:</l>
+               <l>And freedome large, as erſt before,</l>
+               <l>the king our liues ſhould ſaue.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:9691:8"/>
+               <l>For ſo the Captaine Generall</l>
+               <l>had ſworne full ſolemnely:</l>
+               <l>Vpon Gods Sacrament, ſay they,</l>
+               <l>beleue it verely.</l>
+            </lg>
+            <lg>
+               <l>If not, two Biskins with their ſhot</l>
+               <l>and thouſand men likewiſe:</l>
+               <l>And other Sippes with Pinnaſes</l>
+               <l>ſhould quickely vs ſurpriſe.</l>
+            </lg>
+            <lg>
+               <l>And than our Ship, our Goods, our Liues</l>
+               <l>confiſcate ſhould remaine:</l>
+               <l>Vnto the King, out Baile likewiſe</l>
+               <l>and Marchant ſhould ſuſtaine</l>
+            </lg>
+            <lg>
+               <l>The loſſe of Goods, and liberty,</l>
+               <l>and liue as Captiues thrall:</l>
+               <l>Beſides a thouſand miſchiefes ſhould</l>
+               <l>to vs and them befall.</l>
+            </lg>
+            <lg>
+               <l>When this would not preuaile, <hi>halas</hi>
+               </l>
+               <l>
+                  <hi>Anglois,</hi> our men muſt die:</l>
+               <l>Who placed in Biskin for your ſtay,</l>
+               <l>haue let you ſafely flye.</l>
+            </lg>
+            <lg>
+               <l>Beſides our Captaine of the Towne,</l>
+               <l>had rather looſe this day</l>
+               <l>A hundred thouſand Ducates, than</l>
+               <l>your Ship ſhould thus away.</l>
+            </lg>
+            <lg>
+               <l>Their letters and their gloſing ſpeech</l>
+               <l>they both had this effect.</l>
+               <l>A booteleſſe <hi>parle,</hi> our ſhort <hi>Auaunt</hi>
+               </l>
+               <l>did eaſely them reiect.</l>
+            </lg>
+            <lg>
+               <l>We heard, ſaid we, in harbour late</l>
+               <l>the cauſe of this our ſtay:</l>
+               <l>Forſooth our Ship, and ſhot ſhould ſerue</l>
+               <l>the king for his owne pray.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:9691:9"/>
+               <l>And that our Ship ſhould ſerue his vſe</l>
+               <l>euen where it pleaſed his Grace:</l>
+               <l>And we beg homeward, or take vp</l>
+               <l>in Spaine a Captiues place.</l>
+            </lg>
+            <lg>
+               <l>What Spanyardes? thinke that we be men</l>
+               <l>and loth to looſe our owne:</l>
+               <l>Our liues ſhall rather buy our ſcape</l>
+               <l>than wife, and children moane.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Auaunt</hi> therefore: do what you can,</l>
+               <l>diſpatch your Ships with ſpeede:</l>
+               <l>As for your King, your power and lawes</l>
+               <l>we paſſe them not a reede.</l>
+            </lg>
+            <lg>
+               <l>This aunſweare once receiued, forthwith</l>
+               <l>the Pinnaſe made away:</l>
+               <l>Our maſters then with cheerefull hartes</l>
+               <l>vnto vs all gan ſay.</l>
+            </lg>
+            <lg>
+               <l>Our Ship you haue preſerued this time</l>
+               <l>we thanke your manly hartes:</l>
+               <l>Our Ship though ours, yet now your guiſt,</l>
+               <l>who ſtoutly plaid your partes.</l>
+            </lg>
+            <lg>
+               <l>The Spanyardes yet made no reply</l>
+               <l>we no returne haue ſeene:</l>
+               <l>Therefore all praiſe be to the Lord</l>
+               <l>God ſaue our noble Queene.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>R. D.</signed>
+            </closer>
+            <pb facs="tcp:9691:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
